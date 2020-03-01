@@ -1,1 +1,96 @@
-<mxfile host="www.draw.io" modified="2020-03-01T07:14:53.039Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="vAPD_2rK8IL69IzAFIMA" version="12.7.9" type="github"><diagram id="PvYHt_fChEzfOzfAGmBY" name="Page-1">7VnbctsgEP0aPaYjIcmyH31J0pleptO0SfpIJCIzRULF+JavLyDQBceNYzuR04kng9kjWHbZswuRHX+crS4ZLKZfaIKIA9xk5fgTBwAvAMCRf26yLpGoNyiBlOFED6qBK/yANOhqdI4TNGsN5JQSjos2GNM8RzFvYZAxumwPu6ekvWoBU7QBXMWQbKI3OOHTEu2DqMY/IpxOzcqe8S+DZrD2ZDaFCV02IP/c8ceMUl72stUYEbl5Zl/KeRdbnlaGMZTzXSbcXl+iYMxGvH/9iT74y1XxMzwLSi0LSObaYQf0iNA3SvBCGs3Xeid6f+bS0tE9zfnZTMVpKAYIC0SsR/Vz0UvV98R1BhPZjlzVRqoFDaR82ldtKHQ5E8/p9xrgULUjPUUbJjxUtulljmju0FcWeI1VzxtGNw2t/HEbA0I1vXTDDG75KfALY/AdO8zeLbsBWlqBIF0hu4TS4jPOsBy0nGKOrgoYywdLkbYCm/KMCMkT3YqnrhQ4o7/RmBLKlELfVR9pKCakgd+rj8BTBhMsKGme5TRHlSKTQkB7egEzTGRl+IEzkeXA/YqWov1OM5jrIbokALdyb4EYR6utWeBVuSWKEqIZ4mwthpgJrk5HXY/6WlzWye0ZbNpIbINBXU/SSnOdcqKjs+4ZGRi+/Qw8Vc4lmIkjAdNcrolm/IRp6Htd87C3yUNZEkGjjpmS+DRPLEYwOs8TlOhgP8EFeDejZM7RkMV60xVaSe6jYWwx6Jk8OQ0KAHdHCvReigLRUUrRex061bMv8E/s7Ou/HOFe9S53+JX0PWne0OFt51H3h/fg/fDulgLdH96Gg61iaoUS5clQvhMRUkzgbIbjdvT22Eu0wvxWRu5DqKVfWpnsT1Y6qEpYbyVAaSlKNt7FWPEQ3tA5i9E/9kG/0eCQpYg/dd/djG8jfuEj4TMYQwRyvGib+1hM9QrfKBaOVPQB1t0vBBYtSjf1rOZLHVtR2FYURJaich82FCmKVW4fwDrvcNYdpazvw0PBLbZuTJJiNUsK9TQlmXlHZGtvR7aGnbIVWGwN9mVrZLF18MpsBf8hW93XY2u0I1sHXbI1sv+v9vdka2TVVs++vr00W/03zNYjsm6wI+v6XbIusGukfdHblXWBVSND71isE2L9a1M5vP7Nzj//Cw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-01T07:22:20.045Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="Kb1m_MykcrtsWqYCWs3s" version="12.7.9" type="github" pages="2">
+  <diagram id="PvYHt_fChEzfOzfAGmBY" name="Page-1">
+    <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-4" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;Название цикла&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;Условие завершения&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="100" y="80" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-5" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;Название цикла&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;direction=west;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="100" y="310" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-6" value="Тело цикла" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;shadow=0;fillColor=#ffffff;gradientColor=none;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="100" y="200" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-7" value="&lt;div style=&quot;font-size: 20px&quot;&gt;Название цикла&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="430" y="80" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-8" value="&lt;div style=&quot;font-size: 20px&quot;&gt;Условие завершения&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;Название цикла&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;direction=west;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="430" y="310" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-9" value="Тело цикла" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;shadow=0;fillColor=#ffffff;gradientColor=none;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="430" y="200" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-10" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="XVGe4CrBt8VKoz3wxpU5-4" target="XVGe4CrBt8VKoz3wxpU5-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="520" as="sourcePoint" />
+            <mxPoint x="250" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-11" value="" style="endArrow=classic;html=1;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XVGe4CrBt8VKoz3wxpU5-6" target="XVGe4CrBt8VKoz3wxpU5-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="540" as="sourcePoint" />
+            <mxPoint x="270" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-12" value="" style="endArrow=classic;html=1;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XVGe4CrBt8VKoz3wxpU5-7" target="XVGe4CrBt8VKoz3wxpU5-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="230" as="sourcePoint" />
+            <mxPoint x="750" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-13" value="" style="endArrow=classic;html=1;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XVGe4CrBt8VKoz3wxpU5-9" target="XVGe4CrBt8VKoz3wxpU5-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="560" as="sourcePoint" />
+            <mxPoint x="470" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3K1mUDSVWIpNwTHJqVef" name="Цикл с параметром">
+    <mxGraphModel dx="1185" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="hLjOWH0MUF2Db75aUkeC-0" />
+        <mxCell id="hLjOWH0MUF2Db75aUkeC-1" parent="hLjOWH0MUF2Db75aUkeC-0" />
+        <mxCell id="hLjOWH0MUF2Db75aUkeC-6" value="i:= 1..N" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="hLjOWH0MUF2Db75aUkeC-1">
+          <mxGeometry x="320" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hLjOWH0MUF2Db75aUkeC-7" value="Тело цикла" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="hLjOWH0MUF2Db75aUkeC-1">
+          <mxGeometry x="320" y="210" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hLjOWH0MUF2Db75aUkeC-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;comic=0;strokeWidth=2;rounded=0;fontFamily=Times New Roman;fontSize=20;" edge="1" parent="hLjOWH0MUF2Db75aUkeC-1" source="hLjOWH0MUF2Db75aUkeC-7" target="hLjOWH0MUF2Db75aUkeC-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="300" as="sourcePoint" />
+            <mxPoint x="570" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="240" />
+              <mxPoint x="570" y="180" />
+              <mxPoint x="570" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hLjOWH0MUF2Db75aUkeC-9" value="" style="endArrow=classic;html=1;shadow=0;strokeWidth=2;exitX=0.549;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;" edge="1" parent="hLjOWH0MUF2Db75aUkeC-1" source="hLjOWH0MUF2Db75aUkeC-6" target="hLjOWH0MUF2Db75aUkeC-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="380" as="sourcePoint" />
+            <mxPoint x="130" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hLjOWH0MUF2Db75aUkeC-10" value="" style="endArrow=classic;html=1;shadow=0;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;rounded=0;fontFamily=Times New Roman;fontSize=20;" edge="1" parent="hLjOWH0MUF2Db75aUkeC-1" source="hLjOWH0MUF2Db75aUkeC-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="210" as="sourcePoint" />
+            <mxPoint x="380" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="120" />
+              <mxPoint x="210" y="230" />
+              <mxPoint x="210" y="280" />
+              <mxPoint x="300" y="280" />
+              <mxPoint x="380" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
