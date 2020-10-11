@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T14:03:57.385Z" agent="5.0 (Windows)" etag="f8DiWuNGAR9Lp0uOzZv4" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-11T14:13:06.699Z" agent="5.0 (Windows)" etag="5ZEm0kk8dubUkju4nKf2" version="13.6.2" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="2062" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1718" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,6 +162,39 @@
         </mxCell>
         <mxCell id="62Dihu9Ga9pGTKlnTzFX-65" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="62Dihu9Ga9pGTKlnTzFX-63">
           <mxGeometry y="26" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="62Dihu9Ga9pGTKlnTzFX-70" value="ClassA" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="970" width="180" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="62Dihu9Ga9pGTKlnTzFX-71" value="+ number: integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="62Dihu9Ga9pGTKlnTzFX-70">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="62Dihu9Ga9pGTKlnTzFX-72" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="62Dihu9Ga9pGTKlnTzFX-70">
+          <mxGeometry y="52" width="180" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="62Dihu9Ga9pGTKlnTzFX-73" value="+ someMethod(ClassB): String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="62Dihu9Ga9pGTKlnTzFX-70">
+          <mxGeometry y="60" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="62Dihu9Ga9pGTKlnTzFX-78" value="" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="1" target="62Dihu9Ga9pGTKlnTzFX-75">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="263" y="1009" as="sourcePoint" />
+            <mxPoint x="470" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="1009" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62Dihu9Ga9pGTKlnTzFX-74" value="ClassB" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="970" width="200" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="62Dihu9Ga9pGTKlnTzFX-75" value="+ number: integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="62Dihu9Ga9pGTKlnTzFX-74">
+          <mxGeometry y="26" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="62Dihu9Ga9pGTKlnTzFX-76" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="62Dihu9Ga9pGTKlnTzFX-74">
+          <mxGeometry y="52" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="62Dihu9Ga9pGTKlnTzFX-77" value="+ anoutherMethod(String): String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="62Dihu9Ga9pGTKlnTzFX-74">
+          <mxGeometry y="60" width="200" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
