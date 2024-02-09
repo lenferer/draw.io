@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T13:36:59.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="B5NZpZ2ONgSa4B-OWtf8" version="23.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-09T13:42:29.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="gnnYP5VrXpH-_RwNMWpM" version="23.1.2" type="github" pages="4">
   <diagram id="PvYHt_fChEzfOzfAGmBY" name="Цикл с условием">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XVGe4CrBt8VKoz3wxpU5-4" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;Название цикла&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;Условие завершения&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-4" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;Название цикла&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;Условие цикла&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="100" y="80" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XVGe4CrBt8VKoz3wxpU5-5" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;Название цикла&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;direction=west;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
@@ -16,31 +16,31 @@
         <mxCell id="XVGe4CrBt8VKoz3wxpU5-7" value="&lt;div style=&quot;font-size: 20px&quot;&gt;Название цикла&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="430" y="80" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XVGe4CrBt8VKoz3wxpU5-8" value="&lt;div style=&quot;font-size: 20px&quot;&gt;Условие завершения&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;Название цикла&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;direction=west;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-8" value="&lt;div style=&quot;font-size: 20px&quot;&gt;Условие цикла&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;Название цикла&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;direction=west;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="430" y="310" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XVGe4CrBt8VKoz3wxpU5-9" value="Тело цикла" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;shadow=0;fillColor=#ffffff;gradientColor=none;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="430" y="200" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XVGe4CrBt8VKoz3wxpU5-10" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="XVGe4CrBt8VKoz3wxpU5-4" target="XVGe4CrBt8VKoz3wxpU5-6" edge="1">
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-10" value="" style="endArrow=none;html=1;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;endFill=0;" parent="1" source="XVGe4CrBt8VKoz3wxpU5-4" target="XVGe4CrBt8VKoz3wxpU5-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="520" as="sourcePoint" />
             <mxPoint x="250" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XVGe4CrBt8VKoz3wxpU5-11" value="" style="endArrow=classic;html=1;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XVGe4CrBt8VKoz3wxpU5-6" target="XVGe4CrBt8VKoz3wxpU5-5" edge="1">
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-11" value="" style="endArrow=none;html=1;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" parent="1" source="XVGe4CrBt8VKoz3wxpU5-6" target="XVGe4CrBt8VKoz3wxpU5-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="540" as="sourcePoint" />
             <mxPoint x="270" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XVGe4CrBt8VKoz3wxpU5-12" value="" style="endArrow=classic;html=1;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XVGe4CrBt8VKoz3wxpU5-7" target="XVGe4CrBt8VKoz3wxpU5-9" edge="1">
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-12" value="" style="endArrow=none;html=1;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;" parent="1" source="XVGe4CrBt8VKoz3wxpU5-7" target="XVGe4CrBt8VKoz3wxpU5-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="230" as="sourcePoint" />
             <mxPoint x="750" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XVGe4CrBt8VKoz3wxpU5-13" value="" style="endArrow=classic;html=1;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XVGe4CrBt8VKoz3wxpU5-9" target="XVGe4CrBt8VKoz3wxpU5-8" edge="1">
+        <mxCell id="XVGe4CrBt8VKoz3wxpU5-13" value="" style="endArrow=none;html=1;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;" parent="1" source="XVGe4CrBt8VKoz3wxpU5-9" target="XVGe4CrBt8VKoz3wxpU5-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="560" as="sourcePoint" />
             <mxPoint x="470" y="510" as="targetPoint" />
